@@ -14,3 +14,4 @@ Sharing remotely is fun and easy"Feature1"
 "add feature 4" 
 
 "add fix 6" 
+"add fix 7" 
